@@ -14,7 +14,8 @@ Built with Next.js, Tailwind CSS, Framer Motion
 - Dark / Light mode toggle
 
 ## 📷 Screenshots
-(ใส่ภาพหน้าจอจาก Dashboard ที่ดูสวย)
+
+![image](https://github.com/user-attachments/assets/3dfe4420-a809-4aac-b1be-40b42c481f57)
 
 ## 📌 Features
 - Modern dashboard UI
