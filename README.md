@@ -7,7 +7,7 @@ Built with Next.js, Tailwind CSS, Framer Motion
 [https://insighttify-dashboard.vercel.app/](https://insighttify-dashboard.vercel.app/)
 
 ## 🔧 Tech Stack
-- Next.js 14 (App Router)
+- Next.js 15 (App Router)
 - Tailwind CSS 4
 - Framer Motion
 - Chart.js / Recharts (custom if used)
